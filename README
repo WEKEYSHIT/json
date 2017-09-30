@@ -1,0 +1,2 @@
+json parser c
+autoreconf --install && ./configure && make
